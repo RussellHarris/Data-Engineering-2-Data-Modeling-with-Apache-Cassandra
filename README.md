@@ -8,6 +8,7 @@ In this project, you'll apply what you've learned on data modeling with Apache C
 
 # FILES
 * **event_data_new.csv** - Consolidated CSV from all files in event_data
+* **event_data.zip** - RAW CSV input for *event_data_new.csv* partitioned by date
 * **Project_1B_Project_Template.ipynb** - Jupyter notebook for the project submission
 * **image_event_datafile_new.jpg** - screenshot of what the denormalized data should appear like in the event_datafile_new.csv
 
